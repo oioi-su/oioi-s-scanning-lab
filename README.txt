@@ -1,0 +1,1 @@
+This program needs to run in an environment with Python, just download the code and run on Python, it is very simple and i am a high-school student. If you guys have some quetions please make some comments and if i do not well please give me some ideas.
